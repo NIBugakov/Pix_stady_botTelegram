@@ -19,6 +19,10 @@
       <IsMain>false</IsMain>
       <Path>HandlerTesseract.pix</Path>
     </ProjectFileItem>
+    <ProjectFileItem z:Id="i6">
+      <IsMain>false</IsMain>
+      <Path>GigaChat.pix</Path>
+    </ProjectFileItem>
   </Files>
   <MasterUploadId i:nil="true" />
   <Name>BotTelegram</Name>
